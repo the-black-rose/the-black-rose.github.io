@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "The Black Rose"
+title: The Black Rose
 ---
 
-this is all about the black rose
+# this is all about the black rose
 
 ## Newsletter
 
