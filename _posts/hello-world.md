@@ -1,3 +1,10 @@
+---
+layout: post
+title: "POST TITLE"
+date: YYYY-MM-DD hh:mm:ss -0000
+categories: CATEGORY-1 CATEGORY-2
+---
+
 # Hello World!
 
 This is the first post made on the-black-rose.github.io, and hopefullt the first of many!
